@@ -10,8 +10,7 @@ who enjoys challenging projects in Python and Java. A goal of mine is to work on
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sony-lateef"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  |<a href="https://github.com/SonyLateef/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonyLateef&layout=compact&theme=buefy&hide_border=true" /></a> |
   <h3 align="left">⚡ Languages and Tools:</h3>
   <p align="left"><a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> </a> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -20,15 +19,15 @@ who enjoys challenging projects in Python and Java. A goal of mine is to work on
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    
- </p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;   
+ </p
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonyLateef&layout=compact&hide=css,html) 
-
 ![](https://komarev.com/ghpvc/?username=SonyLateef)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=SonyLateef)](https://git.io/streak-stats)
+
+   <a href="https://www.linkedin.com/in/sony-lateef"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
 <!--
 **SonyLateef/sonylateef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
