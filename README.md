@@ -7,7 +7,14 @@ who enjoys challenging projects in Python and Java. A goal of mine is to work on
   - 🌱 I’m currently learning machine learning model tools in additon to improving my foundational knowledge of Python, Java, C++, HTML, and CSS
 
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sony-lateef"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
 ![](https://komarev.com/ghpvc/?username=SonyLateef)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonyLateef&layout=compact&hide=css,html)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=SonyLateef)](https://git.io/streak-stats)
 
