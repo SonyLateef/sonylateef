@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋  - (WIP 🛠)
+
 
 My name is Sulaiman (Sony) Lateef, and I am a third-year undergraduate student at Brandeis University studying Computer Science. I am a passionate programmer
 who enjoys challenging projects in Python and Java. A goal of mine is to work on software or technology that can help others. 
@@ -11,10 +12,21 @@ who enjoys challenging projects in Python and Java. A goal of mine is to work on
 <p align="center">
   <a href="https://www.linkedin.com/in/sony-lateef"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <h3 align="left">⚡ Languages and Tools:</h3>
+  <p align="left"><a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> </a> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    
+ </p>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonyLateef&layout=compact&hide=css,html) 
 
 ![](https://komarev.com/ghpvc/?username=SonyLateef)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonyLateef&layout=compact&hide=css,html)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=SonyLateef)](https://git.io/streak-stats)
 
