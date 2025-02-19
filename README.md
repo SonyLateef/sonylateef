@@ -4,7 +4,8 @@
 My name is Sulaiman (Sony) Lateef, and I am a third-year undergraduate student at Brandeis University studying Computer Science.
 
   - 🔭 I am interested in machine learning, data engineering, cybersecurity, and software development
-  - 🌱 I am focused on improving my technical skills related to Python, Java, 
+  - 🌱 I am focused on improving my technical skills focused on Python and Java through personal project development and professional experiences
+  - 🎯 I am committed to contributing to my larger goal of working on technology and software that will help others
 
 <p align="center">
   |<a href="https://github.com/SonyLateef/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonyLateef&layout=compact&theme=buefy&hide_border=true" /></a> |
