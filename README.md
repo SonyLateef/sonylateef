@@ -5,7 +5,7 @@ My name is Sulaiman (Sony) Lateef, and I am a third-year undergraduate student a
 
   - 🔭 I am interested in machine learning, data engineering, cybersecurity, and software development
   - 🌱 I am focused on improving my technical skills focused on Python and Java through personal project development and professional experiences
-  - 🎯 I am committed to contributing to my larger goal of working on technology and software that will help others
+  - 🎯 I am committed to advancing technology and software to benefit others
 
 <p align="center">
   |<a href="https://github.com/SonyLateef/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonyLateef&layout=compact&theme=buefy&hide_border=true" /></a> |
@@ -20,8 +20,9 @@ My name is Sulaiman (Sony) Lateef, and I am a third-year undergraduate student a
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;   
   
 <p align = "center">
-  <a href="https://www.linkedin.com/in/sony-lateef"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/sony-lateef"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=98960&format=png&color=000000"/></a>
+  <a href="mailto:sonylateef@gmail.com"><img width="40px" alt="Email" title="Email" src="https://img.icons8.com/?size=100&id=86862&format=png&color=000000"/></a>
+  
 
 ![](https://komarev.com/ghpvc/?username=SonyLateef)  
 
