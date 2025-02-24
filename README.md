@@ -20,8 +20,8 @@ My name is Sulaiman (Sony) Lateef, and I am a third-year undergraduate student a
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;   
   
 <p align = "center">
-  <a href="https://www.linkedin.com/in/sony-lateef"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=98960&format=png&color=000000"/></a>
-  <a href="mailto:sonylateef@gmail.com"><img width="40px" alt="Email" title="Email" src="https://img.icons8.com/?size=100&id=86862&format=png&color=000000"/></a>
+  <a href="https://www.linkedin.com/in/sony-lateef"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/></a>
+  <a href="mailto:sonylateef@gmail.com"><img width="40px" alt="Email" title="Email" src="https://img.icons8.com/?size=100&id=3AYCSzCO85Qw&format=png&color=000000"/></a>
   
 
 ![](https://komarev.com/ghpvc/?username=SonyLateef)  
