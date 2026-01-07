@@ -1,4 +1,4 @@
-## Hi there 👋  - (WIP 🛠)
+## Hi there 👋 
 
 
 My name is Sulaiman (Sony) Lateef, and I am a third-year undergraduate student at Brandeis University studying Computer Science.
