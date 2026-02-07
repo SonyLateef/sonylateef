@@ -3,7 +3,7 @@
 
 My name is Sulaiman (Sony) Lateef, and I am a senior undergraduate student at Brandeis University studying Computer Science.
 
-  - 🔭 I am interested in and software development, machine learning, data engineering, and cybersecurity
+  - 🔭 I am interested in software development, machine learning, data engineering, networking, and cybersecurity
   - 🌱 I am focused on improving my technical skills with Python and Java through personal project development and professional experiences
   - 🎯 I am committed to advancing technology and software to benefit others
 
